@@ -1,13 +1,18 @@
 baseURL: https://aidfulai.github.io
 languageCode: en-us
-title: AidfulAI
+title: aidful.ai 🤝
 theme: "PaperMod"
 
 params:
+  env: production
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowShareButtons: true
+  #Sharebuttons: ["linkedin", "twitter"]  # only show the selected ones
+  ShowBreadCrumbs: true
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
-
+    Title: Hello, I'm Daniel
+    Content: This page is my personal blog which teaches you about the artificial intelligence (AI) revolution and how to use AI as your assistant.
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/aidfulai"
@@ -21,10 +26,11 @@ params:
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
   author: "Daniel Bender"
-  contact: "LinusT@example.com"
+  contact: "schrodinger@aidfulai.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
+  
 
 outputs:
   home:
@@ -49,8 +55,8 @@ menu:
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
     - identifier: archive
       name: Archive
       url: /archives/
-      weight: 20
+      weight: 40
