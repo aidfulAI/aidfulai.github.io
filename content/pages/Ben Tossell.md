@@ -1,17 +1,17 @@
 ---
 date: 2022-12-27
-categories: people
+categories: person
 alias:
 - BenTossell
 title: Ben Tossell
 tags:
-lastMod: 2022-12-27
+lastMod: 2022-12-29
 ---
 Twitter: [@bentossell](https://twitter.com/bentossell)
 
 Webpage: https://bentossell.com
 
-AI newsletter [Ben's Bites](https://bensbites.beehiiv.com)
+AI newsletter [Ben's Bites](https://bensbites.beehiiv.com): Daily mail with many links to news in the categories: tools, learn, research and everything else.
 
 # Career
 
