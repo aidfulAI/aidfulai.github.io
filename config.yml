@@ -20,6 +20,8 @@ params:
     #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
       url: "https://twitter.com/aidfulai"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/bender-daniel/"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
