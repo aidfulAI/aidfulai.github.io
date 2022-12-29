@@ -12,7 +12,7 @@ params:
   ShowBreadCrumbs: true
   homeInfoParams:
     Title: Hello, I'm Daniel
-    Content: This page is my personal blog which teaches you about the artificial intelligence (AI) revolution and how to use AI as your assistant.
+    Content: This is my personal page which teaches you about the artificial intelligence (AI) revolution and how to use AI as your assistant.
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/aidfulai"
